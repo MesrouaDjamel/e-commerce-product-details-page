@@ -1,6 +1,5 @@
 "use client";
 import Carousel from "@material-tailwind/react/components/Carousel";
-// import type { CarouselProps } from "@material-tailwind/react";
 
 import Image from "next/image";
 import Link from "next/link";
