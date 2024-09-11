@@ -1,5 +1,6 @@
 "use client";
 import Carousel from "@material-tailwind/react/components/Carousel";
+
 import Image from "next/image";
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
