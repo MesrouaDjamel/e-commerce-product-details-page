@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/MesrouaDjamel/e-commerce-product-details-page))
+- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/MesrouaDjamel/e-commerce-product-details-page)
 - Live Site URL: [Vercel](https://your-live-site-url.com)
 - FrontEndMentor: [FrontEndMentor](https://your-live-site-url.com)
 
