@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub]([https://your-solution-url.com](https://github.com/MesrouaDjamel/e-commerce-product-details-page)
+- Solution URL: [GitHub](https://your-solution-url.com](https://github.com/MesrouaDjamel/e-commerce-product-details-page)
 - Live Site URL: [Vercel](https://your-live-site-url.com)
 - FrontEndMentor: [FrontEndMentor](https://your-live-site-url.com)
 
@@ -73,7 +73,7 @@ In the future I would like to improve project  using libraries to manage state l
 
 ## Author
 
-- GitHub - [Mesroua Djamel](https://www.your-site.com)
+- GitHub - [Mesroua Djamel](https://github.com/MesrouaDjamel/)
 - Frontend Mentor - [@MesrouaDjamel](https://www.frontendmentor.io/profile/MesrouaDjamel)
 - LinkedIn - [@MesrouaDjamel](https://www.linkedin.com/in/mesroua-djamel-86414b11a/)
 
