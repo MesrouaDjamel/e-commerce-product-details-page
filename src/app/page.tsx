@@ -1,10 +1,9 @@
 "use client";
 import Carousel from "@material-tailwind/react/components/Carousel";
-// import type { CarouselProps } from "@material-tailwind/react";
-
 import Image from "next/image";
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
+
 
 const navLinks = [
   {
@@ -133,7 +132,9 @@ export default function Home() {
               className=" w-[550px] h-[670px] overflow-y-hidden   "
               autoplay={false}
               loop={false}
+             
               prevArrow={({ handlePrev }: { handlePrev: () => void }) => (
+
                 <svg
                   width="57"
                   height="54"
