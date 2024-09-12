@@ -1,5 +1,5 @@
 "use client";
-import Carousel from "@material-tailwind/react/components/Carousel";
+import { Carousel } from "@material-tailwind/react";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -133,9 +133,10 @@ export default function Home() {
               className=" w-[550px] h-[670px] overflow-y-hidden   "
               autoplay={false}
               loop={false}
-             
+              placeholder={<div>Loading ...</div>}
+              onPointerEnterCapture={() => setIsBigImageClicked(false)}
+              onPointerLeaveCapture={() => setIsBigImageClicked(true)}
               prevArrow={({ handlePrev }: { handlePrev: () => void }) => (
-
                 <svg
                   width="57"
                   height="54"
@@ -406,6 +407,9 @@ export default function Home() {
               className=" lg:max-w-[450px] lg:h-[570px] overflow-y-hidden pb-10"
               autoplay={false}
               loop={false}
+              placeholder={<div>Loading ...</div>}
+              onPointerEnterCapture={() =>{}}
+              onPointerLeaveCapture={() =>{}}
               prevArrow={({ handlePrev }: { handlePrev: () => void }) => (
                 <svg
                   width="57"
@@ -508,10 +512,7 @@ export default function Home() {
                 </div>
               ))}
             </Carousel>
-
-            
           </div>
-        
         )}
 
         {/* Card */}

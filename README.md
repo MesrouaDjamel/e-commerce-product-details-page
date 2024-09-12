@@ -64,7 +64,7 @@ then I go to the tailwind.config.ts.config and set up the different colors to us
 ### What I learned
 Here are several things I learned about material tailwinds
 - Setup with nextJs
-- I learned how to use the component and how to use the different props that material tailwindcss offers to build a design close to the design proposed
+- I learned how to use the component and how to use the different props that material tailwindcss offers to build a design close to the proposed design 
 
 ### Continued development
 
