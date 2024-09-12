@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/MesrouaDjamel/e-commerce-product-details-page)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://e-commerce-product-details-page-mesroua-djamels-projects.vercel.app/)
 - FrontEndMentor: [FrontEndMentor](https://your-live-site-url.com)
 
 ## My process
