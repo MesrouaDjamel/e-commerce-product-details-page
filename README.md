@@ -45,7 +45,7 @@ Users should be able to:
 
 - Solution URL: [GitHub](https://github.com/MesrouaDjamel/e-commerce-product-details-page)
 - Live Site URL: [Vercel](https://e-commerce-product-details-page-mesroua-djamels-projects.vercel.app/)
-- FrontEndMentor: [FrontEndMentor](https://your-live-site-url.com)
+- FrontEndMentor: [FrontEndMentor]((https://www.frontendmentor.io/solutions/responsive-e-commerce-product-page-using-flexbox-OIDklasUAG))
 
 ## My process
 I started the project using npx create-next-app@latest we configured the project following the instructions (use typescript, use tailwindscss, use app router...).
